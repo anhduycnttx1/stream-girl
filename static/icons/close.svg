@@ -1,0 +1,15 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+	<title>アートボード 3</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-1165-206h1920v1080h-1920z" />
+		</clipPath>
+		<image width="20" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAATJJREFUOE+VlTFOAzEQRd+/BbdBQkIcIEgICjgAFIE05AKIAkIB9KGBVFDRUEHDgaiRBs3KXjlZe2222JXG3qc/nj9jER4zewd+JB3GWMvXzJ6ALUl7vl/+MrMlcBIAC0mzRtgVMA97XyQdycw+gN0NQBVqZiks/v7lwBVwkFFUhBZgjniLKd8CFy3QEdijpLMOGM6xCq3B+qI0QM+BX+A+k0WnLMZ7hQ3QXOHXYAOF/4QOYEVgONMpcFfw41zSdW5tkHKi8hR4KABnkhbNwJFqpoysT3NFyXVAqRMH0DXgiLLLYJubmvlTY5eU9dU0s6r5Y+tVYQ2W6tL34eDz7LjWAen6iNKVAz+B7Q1g1rQN0O+Y8jMQJ3UVVkj/VdIkLYoPWr8C9kseycXNzMX4FbDj639ahKDjo4IcewAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="アートボード 3" clip-path="url(#cp1)">
+		<use id="mark_batsu_illust_898" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+	</g>
+</svg>

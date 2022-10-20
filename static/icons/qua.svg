@@ -1,0 +1,17 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58 67" width="58" height="67">
+	<title>アートボード 1</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-1008-656h1920v1373h-1920z" />
+		</clipPath>
+		<image  width="58" height="67" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAABDCAMAAAD6SOYTAAAAAXNSR0IB2cksfwAAAoVQTFRFu+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/u+j/uq7vjwAAANd0Uk5TAC17utnhzqRTCgNe0P/vhw4CYe39g0Dm6zoMn5o35QsBXf7eJG3fbNsgBREaGRK9I1s9hsLcxj9I8vhyD1THggaP8R8iyhQ7pvroOBWqwTKeYiyLiM0EgGbaT/QwNurAE43IKw25awm/R5wdS2rE4KF4M6jJhVX2lKPdaXCzvkovRWeY5/u7MdH1sNQYmfzDUOmOF9J9qUl/Q+P5UnfwCIGdtDyg1uSQKh5f7rFCISUcaFpkRJF8NKevB3YWedObJ268KWC2dfdWhEx+G6I+829zlRBlijXE5UFjAAAEFklEQVR4nGNgwAYYmZhZWNnYOTixyuIBXNw8vGDAxy9Amk5BIWFeKBARJU2rmDgvHEhIkqJTSpoXCciQolVWDlkrjzzxOhUUlZC1KqsQr5VLFVknrxojCVrVUbRqaBJQr6Wto6unBXGwEIpWfQWQmIGhDnaNnEbGJqamZsbm4CCxsETSaWUNFLGxteO1d8CmU8fRCaLO0tEZyHVxRehU4nFj4HT38OTl9fLGotPHF6HUz5+BQSAAydJAhqBgPjCT3QZDp0MIstdCvRnC1EUQWsMjIqFMpygMrd7RKMESGsMQG8eLDcQnoGtNRFORlJySilUrbxpUR7oWlJGBrsIvMwu7VtNsiI6cXGjizMNQopaPXStvQRhYR6FXEURrMQ51WECJNlhHOG8piBJgKCNWY3mFNzhZKFTyVlVz1BQoMqTUYlPHWmeJJpJaLwVMdw2NTc0tvEp8Eq1tyQwM7R0YGju7vN1Qg7k7rQec8HrlyvvAAsygbKEg24+mM64aaMGEiQgBiUkGkBDimsztB04wU6DZWGdqlWefiIgnLBU5cQMFBQtgWb58WiwsJoHCuuB0Ci8BuHSmF4bMmNkF0xuaDEpms8Ds2X5zwlDS0FxepXnlvMHzkYTSi+BRLLIApFoUmGE8I+eiJXv5hbyL3NOm5PsrwDUuXtKK8JyyGFBIcynvsuUr0BPuSpN4XaAf7VfB3JIcsholpKTTgYLqa9YitKwzEATTK6auB9OcEFs3bIzkRQWWm0AKoaGjkJDCoFW7mQvMQfG4gC2WrNLtgqRiy1bFbZ5C6E4Hgu1emDonVq5DUqG5Y54S786y2F3oWrMxLO1bk4NaPRqAPBS5G7MmEEMNIt6kzXvQVKwCFnxropwFMbSGBSNrXBaOUVcELZLZ27oXxNrVAxFRgEmt2AfX2LnfG8lHXAcSwH4tsuFyDAGlH86aqUByJgfc6YIHYToP1aPU4+kLF4PlgdjmMChaFI5YiWbvbknjgivROQrWWBXhg6yx+pio0255GwVksQZWK9bjduuRRE4AC1AvR2cuZFUMi808eaMjI5CFFBrVgFacRE4XAtLla4y0GFCBwilgVt2M5BCFPXtNwVFQhBzWLjNTGNDBfPYSHh5k8+af9poILPE9j1flYMYTCjizN0Hn7DlkZ3DO91E9P7v5YO9pIlpFAtloAiuXJiUQ1obdKW0ktqUQIGXLYXShmAs1qghwcO45YPj0HLyAJKZ6scwBq2nWaLnnErBAjUUTK7mMVWu1J6qyScBs538cVcwPMwJB4Eo5qrKrwNIpBq320JfCqjUCTWsw0NaY86NaR7WOaqWZVvT8SoLW3NmYWtvRtPphL2DS+lCVgcqma6hCvPHYbZ08Z5UiEthcBKy6EhS5kcWOeCsg6wAALJJKM3Grx/cAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="アートボード 1" clip-path="url(#cp1)">
+		<g id="メニュー">
+			<use id="2" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

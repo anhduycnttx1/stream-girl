@@ -1,0 +1,19 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+	<title>アートボード 1</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-1365-127h1920v5296h-1920z" />
+		</clipPath>
+		<image width="16" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAZVJREFUOE+Nk7Frk0EYxp/n+5Tkj+ioi+gWIdwdqIMVCtYaKC7uOhVxUtBuVrcsDrrp4FKotiCIdkgb7s4MmRw6lMyurtGQ75ErSUmbr2ne5T7u3uf3Pu979xEzot1uX8mybC3LskVJBLCb5/nber3+ayxLm6XhvX9N8tnosDdaL6WVZNMY8/Tou0ztvW+SfCLpTbVaXa/VaoOU12q1LlQqlZeS1iW9d849ngLEGK9JShZfWWtfnFHgOckNSdenACGEbQD3rLVntpegIYR/kvbLAH8B/LTW3pw14BDCVwB3ygAi+c0YszQL4L3fJLlaBtgDULfWVs9x8AdAbwrQ6XQuD4fDQ0kPnXOfyiAxxvuSPpO8W+ZgEcD3JJT0wDm3OQnx3i+T3AGwn+Z0AjAmn6r6G8CPxANwG8ACyT1jzK0TD8l73yC5NRZLWsrzfFAURRPA1dELPCiKYmOytSMHp8UkG8aYL7OGePwvxBgfSXo3kbxirU09zhUMIaRruzGyOHflYwfdbvdiv9//kAblnPs4V9mJpP+Rrano+3pWEQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="アートボード 1" clip-path="url(#cp1)">
+		<g id="ヘッダー">
+			<g id="検索窓">
+				<use id="虫眼鏡" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+			</g>
+		</g>
+	</g>
+</svg>
