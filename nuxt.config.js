@@ -25,7 +25,7 @@ export default {
     '~/plugins/infiniteloading',
   ],
   generate: {
-    dir: 'public'
+    dir: 'dist'
   },
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: {
