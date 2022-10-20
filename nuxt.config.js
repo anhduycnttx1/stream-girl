@@ -24,7 +24,9 @@ export default {
     '~/plugins/videojs/index.js',
     '~/plugins/infiniteloading',
   ],
-
+  generate: {
+    dir: 'public'
+  },
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: {
     dirs: [
